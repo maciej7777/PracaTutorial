@@ -50,3 +50,15 @@
 - Czy znasz metody konkatenacji Stringów (+=, concatenate, StringBuilder, StringBuffer) i umiesz pokazać wyższość jednych nad drugimi (dwie ostatnie nie sprawiają, że w pamięci zostaną niepotrzebne zmienne)?
 - Czy umiesz dokonać konwersji prymitywnego typu int na Integer? Czy taka konwersja jest wykonywana w pewnych sytuacjach automatycznie?
 - Czy wiesz jakie są wartości domyślne zmiennych typu String, int i Integer (a także innych typów zmiennych) oraz potrafisz powiedzieć gdzie można je wykorzystać (np. skrócona deklaracja pól w klasach)?
+
+####*6. Java EE*####
+- Czy wiesz jak działają metody Get i Post i potrafisz podać pomiędzy nimi różnice oraz wskazać sytuacje w których wypada je stosować?
+- Czy znasz sposoby przekazywania parametrów i atrybutów w różnych warstwach (request, session, servletContext)? Czy umiesz je wykorzystać w kodzie?
+- Czy umiesz wykonać przekierowanie do konkretnej strony na 2 sposoby - poprzez zakończenie requesta (response.sendRedirect()) i poprzez przekazanie dalej dancyh z aktualnego requesta (requestDispatcher)?
+- Czy wiesz jak unieważnić sesję i usunąć jej parametry?
+ - ```java
+HttpSession session1 = request.getSession(false);
+if (session1 != null) {
+session1.invalidate();
+}
+```
