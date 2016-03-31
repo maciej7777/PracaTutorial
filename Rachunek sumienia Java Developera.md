@@ -56,7 +56,7 @@
 - Czy znasz sposoby przekazywania parametrów i atrybutów w różnych warstwach (request, session, servletContext)? Czy umiesz je wykorzystać w kodzie?
 - Czy umiesz wykonać przekierowanie do konkretnej strony na 2 sposoby - poprzez zakończenie requesta (response.sendRedirect()) i poprzez przekazanie dalej dancyh z aktualnego requesta (requestDispatcher)?
 - Czy wiesz jak unieważnić sesję i usunąć jej parametry?
- - ```java
+```java
 HttpSession session1 = request.getSession(false);
 if (session1 != null) {
 session1.invalidate();
