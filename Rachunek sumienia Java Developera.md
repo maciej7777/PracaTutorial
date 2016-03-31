@@ -62,3 +62,10 @@ HttpSession session1 = request.getSession(false);
     session1.invalidate();
 }
 ```
+
+####*7. Wyjątki*####
+- Czy znana Ci jest struktura try-catch-finally i wiesz jak konkretnie działają poszczególne jej elementy (szczególnie łatwo zapominany finally)?
+- Czy znasz działanie słowa kluczowego throws?
+- Czy znasz ważneijsze klasy dziedziczące po Exceptions i wiesz z czego dziedziczy samo Exceptions?
+- Czy znsza klasę wyjątków Error?
+- Czy wiesz jak działa metoda finalize() i umiałbyś napisać czemu jej stosowanie niekoniecznie jest dobrą praktyką (nie wiemy kiedy konkretnie się wykona)?
