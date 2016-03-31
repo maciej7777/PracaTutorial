@@ -1,5 +1,5 @@
 ## Rachunek sumienia Java Developera ##
-### Czyli co warto sobie powtórzyć przed pierwszą rozmową o pracę na tym szanownym stanowsiku. ###
+### Czyli co warto sobie powtórzyć przed pierwszą rozmową o pracę na tym stanowisku. ###
 
 ####*1. Pamięć*####
 - Czy wiesz co znajduje się na stercie i stosie w javie? 
@@ -49,3 +49,4 @@
  - trim()
 - Czy znasz metody konkatenacji Stringów (+=, concatenate, StringBuilder, StringBuffer) i umiesz pokazać wyższość jednych nad drugimi (dwie ostatnie nie sprawiają, że w pamięci zostaną niepotrzebne zmienne)?
 - Czy umiesz dokonać konwersji prymitywnego typu int na Integer? Czy taka konwersja jest wykonywana w pewnych sytuacjach automatycznie?
+- Czy wiesz jakie są wartości domyślne zmiennych typu String, int i Integer (a także innych typów zmiennych) oraz potrafisz powiedzieć gdzie można je wykorzystać (np. skrócona deklaracja pól w klasach)?
