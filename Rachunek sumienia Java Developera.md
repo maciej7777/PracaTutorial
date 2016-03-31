@@ -23,6 +23,7 @@
 - Czy znasz modyfikatory dostępu w javie?
 - Czy zdajesz sobie sprawę, żę pola/metody z modyfikatorami dostępu protected są także widoczne w pakietach?
 - Czy znasz pojęcie klas zaprzyjaźnionych i umiesz opisać ich mechanizm na przykładzie javy (podpowiedź - w javie klasy z jednego pakietu przy odpoiwednich modyfikatorach dostępu stają sie klasami zaprzyjaźnionymi)?
+- Czy wiesz z czego dziedziczy każdy obiekt (klasa Object)?
 
 ####*4. Kolekcje*####
 - Czy znasz podstawowe kolekcje w javie (list, queue, set, map) i wiesz po czym dziedziczą?
@@ -104,4 +105,4 @@ HttpSession session1 = request.getSession(false);
  - CardLayout 
  
 ####*11. Inne*####
-- Czy wiesz z czego dziedziczy każdy obiekt (klasa Object)?
+-
