@@ -38,8 +38,8 @@
 
 ####*5. String i Integer*####
 - Czy znasz następujące operacje na zmiennych typu String i wiesz jakie przyjmują argumenty na wejściu?
-equals()
-equalsIgnoredCase()
+-- equals()
+-- equalsIgnoredCase()
 startsWith()
 endsWith()
 substring()
