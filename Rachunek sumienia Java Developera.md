@@ -94,5 +94,14 @@ HttpSession session1 = request.getSession(false);
  - Monitory (synchronized)
  - Locki (lock, unlock)
 
-####*9. Java Swing/Java FX*####
+####*10. Java Swing/Java FX*####
 ######*Niedokończone*######
+- Czy znasz następujące layouty w javie?
+ - FlowLayout 
+ - BorderLayout
+ - GridLayout
+ - GridBagLayout 
+ - CardLayout 
+ 
+####*11. Inne*####
+- Czy wiesz z czego dziedziczy każdy obiekt (klasa Object)?
