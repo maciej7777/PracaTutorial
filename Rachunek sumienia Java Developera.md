@@ -90,13 +90,9 @@ HttpSession session1 = request.getSession(false);
 - Czy potrafisz podać podstawowe metody synchronizacji w javie (semafory, locki i monitory) i podać podstawowe różnice pomiędzy nimi?
 - Czy potrafisz zaimplementować w javie każdą z wymienionych niżej metod synchronizacji?
 - Czy znasz metody wywoływane na wymeinionych metodach synchronizacji?
- - Semafory:
-  * acquire
-  * release
-  - acquireUninterruptibly
- - Monitory:
-  - synchronized
- - Locki:
-  - lock
-  - unlock
-  
+ - Semafory (acquire, release, acquireUninterruptibly)
+ - Monitory (synchronized)
+ - Locki (lock, unlock)
+ - 
+####*9. Java Swing/Java FX*####
+*****Niedopracowane*****
