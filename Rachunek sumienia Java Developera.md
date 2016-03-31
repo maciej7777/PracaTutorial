@@ -58,7 +58,7 @@
 - Czy wiesz jak unieważnić sesję i usunąć jej parametry?
 ```java
 HttpSession session1 = request.getSession(false);
-if (session1 != null) {
-session1.invalidate();
+ if (session1 != null) {
+ session1.invalidate();
 }
 ```
