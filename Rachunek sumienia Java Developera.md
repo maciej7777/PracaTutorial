@@ -69,3 +69,20 @@ HttpSession session1 = request.getSession(false);
 - Czy znasz ważneijsze klasy dziedziczące po Exceptions i wiesz z czego dziedziczy samo Exceptions?
 - Czy znsza klasę wyjątków Error?
 - Czy wiesz jak działa metoda finalize() i umiałbyś napisać czemu jej stosowanie niekoniecznie jest dobrą praktyką (nie wiemy kiedy konkretnie się wykona)?
+
+####*8. Wątki*####
+- Czy znasz podstawowe klasy i interfejsy związane z tworzeniem wątków w javie (klasa Thread, interfejs Runnable) i potrafisz podaćróżnice pomiędzy nimi (oraz który z nich lepiej stosować)? 
+- Czy umiesz utworzyć wątki korzystając z dziedziczenia po klasie Thread lub implementując interfejs Runnable?
+- Czy znasz metody/sygnały jakimi możemy działać na wątek?
+ - start
+ - stop
+ - sleep
+ - wait
+ - notify
+ - notifyAll
+ - suspend
+ - resume
+ - yield
+ - setDaemon()
+- Czy wiesz co to znaczy, że wątek jest "daemonem" (setDaemon())?
+
