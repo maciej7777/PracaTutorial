@@ -88,7 +88,7 @@ HttpSession session1 = request.getSession(false);
  - resume
  - yield
  - setDaemon()
-- Czy wiesz co to znaczy, że wątek jest "daemonem" (setDaemon())?
+- Czy wiesz co to znaczy, że wątek jest "daemonem" (setDaemon(true))?
 
 ####*9. Synchronizacja*####
 - Czy potrafisz podać podstawowe metody synchronizacji w javie (semafory, locki i monitory) i podać podstawowe różnice pomiędzy nimi?
