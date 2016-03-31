@@ -104,5 +104,8 @@ HttpSession session1 = request.getSession(false);
  - GridBagLayout 
  - CardLayout 
  
-####*11. Inne*####
--
+####*11. Testowanie*####
+- Czy wiesz, że nie cały kod musi zostać pokryty testami o ile klient sobie tego nie zażyczy (nie ma sensu testować typowych getterów i setterów).
+
+####*12. Inne*####
+- To be continued...
