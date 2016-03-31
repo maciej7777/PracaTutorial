@@ -9,7 +9,7 @@
 - Czy wiesz kiedy jest wywoływany garbage collector (i że użytkownik w zasadzie nie ma większego wpływu na czas wykonania)?
 
 ####*2. Biblioteka standardowa i JVM*####
-- Czy wiesz co konkretnie znajduje się w bibliotekach java.util.*, java.lang.*, java.io.*, java.awt.*?
+- Czy wiesz co konkretnie znajduje się w bibliotekach java.util.\*, java.lang.*, java.io.*, java.awt.*?
 - Czy znasz różnice pomiędzy JRE i JDK? 
 - Czy znasz podstawy działania JVM? 
 - Czy wiesz jak wygląda kompilacja programu w javie (przepisywanie kodu programu na kod zrozumiały dla JVM, nie na kod źródłowy)?
