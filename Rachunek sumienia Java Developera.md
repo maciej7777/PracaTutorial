@@ -23,3 +23,16 @@
 - Czy znasz modyfikatory dostępu w javie?
 - Czy zdajesz sobie sprawę, żę pola/metody z modyfikatorami dostępu protected są także widoczne w pakietach?
 - Czy znasz pojęcie klas zaprzyjaźnionych i umiesz opisać ich mechanizm na przykładzie javy (podpowiedź - w javie klasy z jednego pakietu przy odpoiwednich modyfikatorach dostępu stają sie klasami zaprzyjaźnionymi)?
+
+####*4. Kolekcje*####
+- Czy znasz podstawowe kolekcje w javie (list, queue, set, map) i wiesz po czym dziedziczą?
+- Jakie metody są charakterystyczne dla kolekcji (add, remove)?
+- Czy umiesz podać różnice pomiędzy ArrayList i LinkedList oraz ocenić ich przydatność w konkretych sytuacjach (ArrayList bazuje na tablicach, LinkedList na liście dwukierunkowej - szybsze będzie czytanie konkretnej danej w ArrayList, jednak zdecydowanie łatwiej zmodyfikować LinkedList)?
+- Czy znasz podstawowe metody dostępu do elementów wybranych kolekcji (np dla ArrayDeque: add, remove, getfirst, getlast, isempty, peek
+)?
+- Czy znasz przynajmniej 2 kolekcje dziedziczące po queue, set, map?
+- Czy umiesz ocenić wyższość wybranych kolekcji nad innymi z tej samej części drzewa dziedziczenia (np. porównać dwa wybrane set'y [zbiory])?
+- Czy słyszałeś kiedykolwiek o funkcji hashującej: hashCode()?
+- Czy jesteś świadomy faktu, że do kolekcji w javie nie możemy wrzucać prymitywów?
+- Czy wiesz jak posortować listę w sposób domyślny, jak i korzystając z samemu utworzonego komparatora?
+
