@@ -91,8 +91,8 @@ HttpSession session1 = request.getSession(false);
 - Czy potrafisz zaimplementować w javie każdą z wymienionych niżej metod synchronizacji?
 - Czy znasz metody wywoływane na wymeinionych metodach synchronizacji?
  - Semafory:
-  - acquire
-  - release
+  * acquire
+  * release
   - acquireUninterruptibly
  - Monitory:
   - synchronized
