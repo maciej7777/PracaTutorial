@@ -56,6 +56,9 @@
 - Czy wiesz jak działają metody Get i Post i potrafisz podać pomiędzy nimi różnice oraz wskazać sytuacje w których wypada je stosować?
 - Czy znasz sposoby przekazywania parametrów i atrybutów w różnych warstwach (request, session, servletContext)? Czy umiesz je wykorzystać w kodzie?
 - Czy umiesz wykonać przekierowanie do konkretnej strony na 2 sposoby - poprzez zakończenie requesta (response.sendRedirect()) i poprzez przekazanie dalej dancyh z aktualnego requesta (requestDispatcher)?
+- Czy umeisz przedstawić koncepcje aplikacji MVC?
+- Czy umiesz podać różnice pomidzy jsp i servletem?
+- Czy wiesz, że jsp jest tak naprawdę servletem?
 - Czy wiesz jak unieważnić sesję i usunąć jej parametry?
 ```java
 HttpSession session1 = request.getSession(false);
@@ -107,5 +110,5 @@ HttpSession session1 = request.getSession(false);
 ####*11. Testowanie*####
 - Czy wiesz, że nie cały kod musi zostać pokryty testami o ile klient sobie tego nie zażyczy (nie ma sensu testować typowych getterów i setterów).
 
-####*12. Inne*####
+####*12. Inne (Java Spring, testowanie do rozszerzenia, Maven i Groovy)*####
 - To be continued...
