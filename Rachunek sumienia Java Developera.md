@@ -36,3 +36,16 @@
 - Czy jesteś świadomy faktu, że do kolekcji w javie nie możemy wrzucać prymitywów?
 - Czy wiesz jak posortować listę w sposób domyślny, jak i korzystając z samemu utworzonego komparatora?
 
+####*5. String i Integer*####
+- Czy znasz następujące operacje na zmiennych typu String i wiesz jakie przyjmują argumenty na wejściu?
+equals()
+equalsIgnoredCase()
+startsWith()
+endsWith()
+substring()
+concat()
+replace()
+split()
+trim()
+- Czy znasz metody konkatenacji Stringów (+=, concatenate, StringBuilder, StringBuffer) i umiesz pokazać wyższość jednych nad drugimi (dwie ostatnie nie sprawiają, że w pamięci zostaną niepotrzebne zmienne)?
+- Czy umiesz dokonać konwersji prymitywnego typu int na Integer? Czy taka konwersja jest wykonywana w pewnych sytuacjach automatycznie?
