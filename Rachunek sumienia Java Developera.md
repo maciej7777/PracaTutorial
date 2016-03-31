@@ -93,6 +93,6 @@ HttpSession session1 = request.getSession(false);
  - Semafory (acquire, release, acquireUninterruptibly)
  - Monitory (synchronized)
  - Locki (lock, unlock)
- - 
+
 ####*9. Java Swing/Java FX*####
 ######*Niedokończone*######
