@@ -95,4 +95,4 @@ HttpSession session1 = request.getSession(false);
  - Locki (lock, unlock)
  - 
 ####*9. Java Swing/Java FX*####
-*****Niedopracowane*****
+######*Niedokończone*######
