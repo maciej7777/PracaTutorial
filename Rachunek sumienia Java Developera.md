@@ -110,5 +110,5 @@ HttpSession session1 = request.getSession(false);
 ####*11. Testowanie*####
 - Czy wiesz, że nie cały kod musi zostać pokryty testami o ile klient sobie tego nie zażyczy (nie ma sensu testować typowych getterów i setterów).
 
-####*12. Inne (Java Spring, testowanie, Maven i Groovy)*####
+####*12. Inne (Java Spring, testowanie, Maven, Ant, Gradle i Groovy)*####
 - To be continued...
